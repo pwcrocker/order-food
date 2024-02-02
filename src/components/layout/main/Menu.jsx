@@ -1,4 +1,4 @@
-import useFetch from '../hooks/useFetch';
+import useFetch from '../../../hooks/useFetch';
 import MealCard from './MealCard';
 
 export default function Menu() {
